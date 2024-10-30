@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/erickbmoore/ActiveDirectoryLab/tree/main)
 - [FIM Project](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Linux](https://github.com/joshmadakor1/Algorithms-Practice)
 - [REST API Project](https://github.com/joshmadakor1/Algorithms-Practice)
