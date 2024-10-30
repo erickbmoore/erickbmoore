@@ -7,7 +7,7 @@
 - [Linux](https://github.com/joshmadakor1/Algorithms-Practice)
 - [REST API Project](https://github.com/joshmadakor1/Algorithms-Practice)
 - [SIEM Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [SQL Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [SQL Project](https://github.com/erickbmoore/SQL)
 - [Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications</h2>
