@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/erickbmoore/ActiveDirectoryLab/tree/main)
-- [FIM Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [FIM Project](https://github.com/erickbmoore/FileIntegrityMonitor)
 - [Linux](https://github.com/joshmadakor1/Algorithms-Practice)
 - [REST API Project](https://github.com/joshmadakor1/Algorithms-Practice)
 - [SIEM Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
